@@ -10,7 +10,7 @@ Add the plugin to your rebar config:
 
 ```
 {plugins, [
-    {rebar_prv_alpaca, ".*", {git, "https://github.com/tsloughter/rebar_prv_alpaca.git", {branch, "master"}}}
+    {rebar_prv_alpaca, ".*", {git, "https://github.com/alpaca-lang/rebar_prv_alpaca.git", {branch, "master"}}}
 ]}.
 
 
